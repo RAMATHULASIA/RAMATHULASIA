@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating web development with python and django framework and also to create apps.
 - 🌱 I’m currently learning full stack development like html,css,javascript,relational databases.
 - 💞️ I’m looking to collaborate on to develop some innovative projects.
-- 📫 How to reach me uselonkedin profile.
+- 📫 How to reach me use linkedin profile.
 - 😄 Pronouns: she/her.
 
 
