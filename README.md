@@ -7,15 +7,19 @@
 
 
 
-- 👋 Hi, I’m Rama Thulasi
-- 👀 I’m interested in creating web development with python and django framework and also to create apps.
-- 🌱 I’m currently learning full stack development like html,css,javascript,relational databases.
-- 💞️ I’m looking to collaborate on to develop some innovative projects.
-- 📫 How to reach me use linkedin profile.
-- 😄 Pronouns: she/her.
+                                                      About Me
+🔭 I’m currently pursuing my Graduation on Electrical and Electronics Engineering FROM Annamacharya Institute of Technology and Sciences
 
+🌱 I’m currently learning Programming and SQL.
 
-<!---
-RAMATHULASIA/RAMATHULASIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 Ask me about web Development, python, full stack development,SQL,Electrical and electronics Engineering,Python fullstack development,Django
+
+📫 How to reach me akularamathulasi@gmail.com
+
+Currently i am Upskilling myself with ongoing to the prepartion of programmin languages and also about the current trending technology AI.
+
+                                                  WORK AND EXPERIENCES
+I had done my internship in infosys Springboard on python full stack development and develoed the project of TRAVEL GUIDE USING AI.This expereince makes me more to know about the technologies and the web develoment.
+
+Connect with me 
+https://www.linkedin.com/in/ramathulasiakula
