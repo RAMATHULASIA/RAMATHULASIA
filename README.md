@@ -22,7 +22,8 @@ Currently i am Upskilling myself with ongoing to the prepartion of programming D
 I had done my internship in infosys Springboard on python full stack development and develoed the project of TRAVEL GUIDE USING AI.This expereince makes me more to know about the technologies and the web develoment.
 
                                                     My Profiles
-[https://www.linkedin.com/in/ramathulasiakula](https://www.linkedin.com/in/ramathulasiakula/)
+[https://www.linkedin.com/in/ramathulasiakula](https://www.linkedin.com/in/ramathulasiakula/) ![image](https://github.com/user-attachments/assets/547de441-0584-4e07-8d08-5f72290d3a92)
+
 
 https://unstop.com/u/ramataku25754
 
