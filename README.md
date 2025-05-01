@@ -10,13 +10,13 @@
                                                       About Me
 🔭 I’m currently pursuing my Graduation on Electrical and Electronics Engineering FROM Annamacharya Institute of Technology and Sciences
 
-🌱 I’m currently learning Programming and SQL.
+🌱 I’m currently learning Programming DSA and SQL.
 
 💬 Ask me about web Development, python, full stack development,SQL,Electrical and electronics Engineering,Python fullstack development,Django
 
 📫 How to reach me akularamathulasi@gmail.com
 
-Currently i am Upskilling myself with ongoing to the prepartion of programmin languages and also about the current trending technology AI.
+Currently i am Upskilling myself with ongoing to the prepartion of programming DSA and also about the current trending technology AI.
 
                                                   WORK AND EXPERIENCES
 I had done my internship in infosys Springboard on python full stack development and develoed the project of TRAVEL GUIDE USING AI.This expereince makes me more to know about the technologies and the web develoment.
