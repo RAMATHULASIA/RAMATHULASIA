@@ -25,8 +25,7 @@ I had done my internship in infosys Springboard on python full stack development
 [https://www.linkedin.com/in/ramathulasiakula](https://www.linkedin.com/in/ramathulasiakula/)
 
 https://unstop.com/u/ramataku25754
-![unstop-icon-80x80](https://github.com/user-attachments/assets/03e94d53-a8d5-43ef-96d5-79160705521e)
 
 
-https://leetcode.com/u/Thulasi_290/ 
-![97088991-45da5d00-1652-11eb-900f-80d106540f4f](https://github.com/user-attachments/assets/b3404c20-6aa9-4aa5-9466-8ef4f80aacd6)
+
+https://leetcode.com/u/Thulasi_290/ ![97088991-45da5d00-1652-11eb-900f-80d106540f4f](https://github.com/user-attachments/assets/b3404c20-6aa9-4aa5-9466-8ef4f80aacd6)
