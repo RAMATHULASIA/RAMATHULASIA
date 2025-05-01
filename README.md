@@ -7,7 +7,7 @@
 
 
 
-                                                      About Me
+                                                       About Me
 🔭 I’m currently pursuing my Graduation on Electrical and Electronics Engineering FROM Annamacharya Institute of Technology and Sciences
 
 🌱 I’m currently learning Programming DSA and SQL.
